@@ -108,15 +108,3 @@ docker logs healthcheck
 ├── .env              # Your environment configuration (git-ignored)
 └── .gitignore        # Git ignore rules
 ```
-
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License 📄
-
-This project is open source and available under the MIT License.
-
-## Support 💬
-
-If you encounter any problems or have suggestions, please open an issue in the GitHub repository.
